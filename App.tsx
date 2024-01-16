@@ -77,6 +77,7 @@ function App(): React.JSX.Element {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
             <Text>Test Git</Text>
+            <Text>Test Git2</Text>
           <LearnMoreLinks />
         </View>
       </ScrollView>
